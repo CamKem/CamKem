@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @CamKem
-- 👀 I’m interested in integration & interconnectivity of systems & programmes. API's & Automtion are my main focus.
-- 🌱 I am a fullstack developer, using css, html, javscript, php & MySQL.
-- The main frameworks I use are Tailwind CSS, VueJS, AlphineJS & Laravel
-- 💞️ I’m looking to collaborate on person & business based system integration & automation.
-- 📫 How to reach me: It's be to email or message me & I'll respond asap. Thanks!
+Hi I'm Cameron Kemshal-Bell.
+I live in Victoria, Australia and have been into software development my whole life.
+I did it professionally between 2003-2008, then moved onto other thing.
+Then in 2014 I had a serious accident which caused me to be unable to work in my previous role as a head chef.
+In 2020 I started to get back into programming & focused on sharpening my skills an getting back into development.
+
+My focus has been around full stack web app development using the following technologies:
+- HTML5, CSS3, JavaScript, PHP, MySQL, REST, Redis, CI/CD
+
+The framework I have focused on are Laravel, Livewire, VueJS, AlpineJS & TailwindCSS.
+My passion is automation & system integration. I love working with api's & building productss that
+solve business problems or create a unique offering for the consumer.
+
+I am current working freeland and looking to collaborate, or offer my time to go towards a project.
+If you are interested in working with me or have something you would like my help on, please send me a message.
 
 <!---
 CamKem/CamKem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
