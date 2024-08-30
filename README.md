@@ -1,4 +1,4 @@
-![Cam Kemshal-Bell](banner.png)
+![Cam Kemshal-Bell](banner-updated.png)
 
 Based in Victoria, Australia, my professional journey in software development spans over a decade, enriched by a diverse portfolio of projects and technologies. After moving to non-technical management & business development roles, then dedicated period of professional development, I am back at the keyboard writing lines of code & loving it!
 
