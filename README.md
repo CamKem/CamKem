@@ -30,4 +30,4 @@ I'm committed to giving back to the community through mentoring and contributing
 
 Although I'm currently freelancing and dedicating time to personal projects, I am actively seeking new opportunities. If you're interested in collaborating, need a project quote, or require assistance, feel free to reach out. Let's create something amazing together!
 
-[Send me a message](mailto:cam@panr.app) | [LinkedIn](https://www.linkedin.com/in/cameron-kemshal-bell-abb72b31/) | [Twitter/X](https://twitter.com/CamKemDev)
+[Send me a message](mailto:cam@iterated.tech) | [LinkedIn](https://www.linkedin.com/in/cameron-kemshal-bell-abb72b31/) | [Twitter/X](https://twitter.com/CamKemDev)
