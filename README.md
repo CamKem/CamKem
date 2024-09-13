@@ -15,11 +15,11 @@ My full-stack programming capabilities are complemented by comprehensive project
 I've enjoyed working with and contributing to Open Source, and currently engaging on projects like [Pinkary](#https://pinkary.com) with Nuno Maduro.
 Throughout my time I have handled numerous client projects from inception to deployment. My experience also spans maintaining and upgrading legacy codebases, often transitioning them to modern frameworks.
 
-Since focusing on the Laravel ecosystem and working with ssociated technologies like Livewire, InertiaJs, NuxtJs, VueJS, AlpineJS, and TailwindCSS over the past several years, I've deepened my expertise in producing high-quality, robust applications by utilising modern frameworks in the process as the basis of the work.
+Since focusing on the Laravel ecosystem and working with associated technologies like Livewire, InertiaJs, NuxtJs, VueJS, AlpineJS, and TailwindCSS over the past several years, I've deepened my expertise in producing high-quality, robust applications by utilising modern frameworks in the process utilising this tech as the basis of the work.
 
 ### My Passion
 
-Automation and system integration fuel my enthusiasm. I thrive on building decoupled modular architectures, designing RESTful APIs, and crafting scalable systems that address complex business challenges. My goal across all my work is to leverage my skills to create innovative scalable solutions, that deliver unique value to users, providing them with seamless digital experiences
+Automation and system integration fuel my enthusiasm. I enjoy building decoupled modular architectures, designing RESTful APIs, and crafting scalable systems that address complex business challenges. My goal across all my work is to leverage my skills to create innovative scalable solutions, that deliver unique value to users, providing them with seamless digital experiences.
 
 ### Community and Contributions
 
