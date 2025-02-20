@@ -5,15 +5,17 @@ Based in Victoria, Australia, my professional journey in software development sp
 ### What I Do
 
 I am proficient in a range of estabished & emerging technologies and metholodies in the web development space.
-- **Advanced:** Proficient in TDD, REST, GraphQL, Redis, Docker, CI/CD, Git, Agile and DevOps methodologies.
 
 - **Core Languages:** Adept in HTML5, CSS3, JavaScript, PHP, SQL.
 - **Advanced Tooling:** Proficient in:
   - Build Steps: Supporting Minification, Obvuscation & creating production read code.
-  - Code Quality: Linting, Automated Refactoring
+  - Code Quality: Linting, Automated Refactoring, Static Analysis, Code Review & Audits
   - Testing: Unit, Integration and Automated End to End.
-- **Modern Techologies** Knowledge of RESTful Architecure, GraphQL, Containerisation, TDD, Serverless Architecture.
-- **CI/CD methologies** Utilisation of Git, Agile, DevOps, 
+- **Modern Techologies:** Knowledge of RESTful Architecure, GraphQL, Containerisation, TDD, Serverless Architecture.
+- **CI/CD Methologies:** Utilisation of Git, Agile, DevOps and CI Environments.
+- **Best Practices:**
+  - Performance optimisation using caching strategies, load balancing & query analysis.
+  - Implementations of security protocols, including encryption, authentication & authorization.
 - **Database Expertise:** Extensive experience with RDBMS such as MySQL and PostgreSQL, including extensions like pgvector and PostGIS, as well as NoSQL technologies like Redis and MongoDB.
 
 My full-stack programming capabilities are complemented by comprehensive project management skills. I comfortable with working as part of a team, or management the entire project lifecycle with a strategic perspective, ensuring that technical solutions meet complex business requirements. Everything from scope development and requirements gathering to translating business needs into technical specifications and server management.
