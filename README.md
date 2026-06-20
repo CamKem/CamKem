@@ -1,41 +1,62 @@
 ![Cam Kemshal-Bell](banner-updated.png)
-
-Based in Victoria, Australia, my professional journey in software development spans over a decade, enriched by a diverse portfolio of projects and technologies. Along with software development, I have experience accross the technical fields of engineering & telecommunications, in Sales, Management & Business Development, Management. After some life changes and a dedicated period of professional development, I am back in software, at the keyboard writing lines of code & loving it!
-
-### What I Do
-
-I am proficient in a range of estabished & emerging technologies and metholodies in the web development space.
-
-- **Core Languages:** Adept in HTML5, CSS3, JavaScript, PHP, SQL.
-- **Advanced Tooling:** Proficient in:
-  - Build Steps: Supporting Minification, Obvuscation & creating production read code.
-  - Code Quality: Linting, Automated Refactoring, Static Analysis, Code Review & Audits
-  - Testing: Unit, Integration and Automated End to End.
-- **Modern Techologies:** Knowledge of RESTful Architecure, GraphQL, Containerisation, TDD, Serverless Architecture.
-- **CI/CD Methologies:** Utilisation of Git, Agile, DevOps and CI Environments.
-- **Best Practices:**
-  - Performance optimisation using caching strategies, load balancing & query analysis.
-  - Implementations of security protocols, including encryption, authentication & authorization.
-- **Database Expertise:** Extensive experience with RDBMS such as MySQL and PostgreSQL, including extensions like pgvector and PostGIS, as well as NoSQL technologies like Redis and MongoDB.
-
-My full-stack programming capabilities are complemented by comprehensive project management skills. I comfortable with working as part of a team, or management the entire project lifecycle with a strategic perspective, ensuring that technical solutions meet complex business requirements. Everything from scope development and requirements gathering to translating business needs into technical specifications and server management.
-
-### Projects and Collaborations
-
-I've enjoyed working with and contributing to Open Source, and currently engaging on projects like [Pinkary](#https://pinkary.com) with Nuno Maduro and other prominent community members.
-
-Where time and circumstances permit, I ejnoy providing mentorship to developers. Anything from help and assistance with coding problems to discussions around more complex software architecture, or working with them on how they can be a successful as freelance developer or product founder.
-
-Throughout my time I have handled numerous client projects from inception to deployment. My experience also spans maintaining and upgrading legacy codebases, often transitioning them to modern frameworks.
-
-Since focusing on the Laravel ecosystem and working with associated technologies like Livewire, InertiaJs, NuxtJs, VueJS, AlpineJS, and TailwindCSS over the past several years, I've deepened my expertise in producing high-quality, robust applications by utilising modern frameworks in the process utilising this tech as the basis of the work.
-
-### My Passion
-
-Any challenge that allows me to apply my skills to produce elegant solutions provides me with drive and enthusiasm. I enjoy working in automation and sytstems integration, building decoupled modular architectures, designing RESTful APIs, and crafting scalable systems that address complex business challenges. My goal across all my work is to leverage my skills to create innovative scalable products, that deliver unique value to users, providing them with seamless digital experiences.
-
-### Let's Connect!
-
-Although I'm currently freelancing and dedicating time to personal projects, I am actively seeking new opportunities. If you're interested in collaborating, need a project quote, or require assistance, feel free to reach out. Let's create something amazing together!
-
-[Send me a message](mailto:cam@iterated.tech) | [LinkedIn](https://www.linkedin.com/in/cameron-kemshal-bell-abb72b31/) | [Twitter/X](https://twitter.com/CamKemDev)
+# Hey, I'm Cam 👋
+Lead Engineer, open source enthusiast, software architect, and someone who still genuinely enjoys sitting down and writing code.
+I'm based in Victoria, Australia and have spent much of my career building software, solving technical problems, leading projects, and helping teams deliver better products. My background spans software development, telecommunications, engineering, management, and business, which means I tend to approach problems from both the technical and human sides.
+Today I work as a Lead Engineer in the health and wellbeing space, helping build products that make a genuine difference to people's lives. Alongside my day job, I continue to contribute to open source, mentor developers, explore emerging technologies, and run my own consulting work through Iterated Tech.
+Despite moving into leadership and architecture work, I still love being hands-on. You'll usually find me somewhere between a pull request, a whiteboard diagram, a queue worker, and whatever new AI tooling everyone is arguing about this week.
+---
+## Currently
+- 🏥 Lead Engineer building digital health platforms.
+- 🧠 Exploring AI-assisted software development workflows.
+- ❤️ Contributing to open source where time permits.
+- ☕ Mentoring developers and helping teams grow.
+- 🚀 Running Iterated Tech alongside my engineering work.
+---
+## What I Enjoy Building
+I enjoy solving difficult problems and building systems that are simple to work with, easy to maintain, and able to grow over time.
+Some areas I particularly enjoy:
+- Application architecture and system design.
+- APIs and systems integration.
+- Modular applications and domain-driven design.
+- Automation and developer tooling.
+- Performance and scalability.
+- Cloud infrastructure and DevOps.
+- Developer experience.
+- AI-assisted engineering workflows.
+- Health technology.
+I particularly enjoy taking complex business problems and turning them into practical software solutions.
+---
+## Building Things With
+I spend less time worrying about specific technologies these days and more time thinking about how teams build software, how systems evolve over time, and how technology solves real problems.
+Most of my work sits somewhere between application architecture, product engineering, developer experience, AI-assisted workflows, and helping teams build maintainable software that can grow with the business.
+I still enjoy writing code every day, but these days I'm just as likely to be found reviewing architecture, mentoring developers, designing systems, or experimenting with whatever new tooling the industry is excited about this week.
+---
+## Open Source
+Open source has played a huge part in my journey.
+I've learned an enormous amount from the Laravel and PHP communities over the years and enjoy giving back wherever I can. I've contributed to projects, helped developers solve problems, mentored people entering the industry, and participated in community projects such as [Pinkary](https://pinkary.com).
+I still believe some of the best software is built by people sharing ideas, sharing knowledge, and helping each other improve.
+### GitHub
+- Personal: https://github.com/camkb85
+- Work: https://github.com/CamKemBell
+---
+## Iterated Tech
+Alongside my engineering role, I run **Iterated Tech**.
+The goal is simple: help businesses make better technology decisions.
+That might involve:
+- AI adoption and human-in-the-loop workflows.
+- Software architecture reviews.
+- Technical strategy.
+- Engineering process improvement.
+- Application modernisation.
+- Developer productivity and tooling.
+- Technical leadership and mentoring.
+I'm particularly interested in how AI can augment software teams rather than replace them.
+---
+## Outside of Work
+I enjoy mentoring developers, discussing software architecture, exploring new technologies, and helping people solve difficult technical problems.
+Whether that's helping somebody debug their first Laravel application, reviewing an architecture proposal, discussing engineering leadership, or experimenting with new AI tools, I genuinely enjoy being part of the software community.
+---
+## Let's Connect
+[Send me a message](mailto:cam@iterated.tech) |
+[LinkedIn](https://www.linkedin.com/in/cameron-kemshal-bell-abb72b31/) |
+[Twitter/X](https://twitter.com/CamKemDev)
